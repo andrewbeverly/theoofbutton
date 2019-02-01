@@ -1,0 +1,36 @@
+<html>
+  <body style="text-align:center;">
+    <p>
+      &nbsp;
+    </p>
+    <p>
+      <table border="3" align="center">
+        <th>
+          <button style="backgroundcolor:white;" onclick="document.getElementById('noise').play(); setFullVolume();">
+            <b>
+              OOF x1
+            </b>
+          </button>
+        </th>
+      </table>
+    </p>
+    <p>
+      &nbsp;
+    </p>
+    <p>
+      <table border="3" align="center">
+        <th>
+          OOF-LOOP
+        </th>
+      </table>
+    <p>
+      <audio controls loop>
+        <source src="oof.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+      </audio>
+      <audio preload="auto" id="noise" src="oof.ogg" src="oof.mp3">
+        Your browser does not support the audio element.
+      </audio>
+    </p>
+  </body>
+</html>
