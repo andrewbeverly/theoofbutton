@@ -1,4 +1,5 @@
-<b>For the-oof-button to work, you must extract the folder from the .zip file.</b>
+# https://forgivennin.github.io/the-oof-button/
+For the-oof-button to work, you must extract the folder from the .zip file.
 -
 
 If you are using this with Windows, right click the file and it should say "Extract."
