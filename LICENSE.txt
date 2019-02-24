@@ -1,7 +1,6 @@
 
 *THE "oof.mp3", "oof.ogg", and "buttonbackground.jpg" FILES ARE NOT INCLUDED IN/TO/UNDER THE EXTENT OF THIS LICENSE.*
-"buttonbackground.jpg" IS LABELED FOR NONCOMMERCIAL REUSE WITH MODIFICATION.
-https://www.google.com/search?q=oof&tbm=isch&source=lnt&tbs=sur:fm&sa=X&ved=0ahUKEwi8k6iNxJ3gAhWnd98KHTYbCqIQpwUIHw&biw=1536&bih=728&dpr=1.25#imgrc=9cQn7vlxUUx7FM:
+"buttonbackground.jpg (goo.gl/images/kKT56m)" IS LABELED FOR NONCOMMERCIAL REUSE WITH MODIFICATION.
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
